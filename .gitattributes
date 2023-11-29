@@ -1,5 +1,0 @@
-ALL[[:space:]]AKSHAN[[:space:]]SKINS[[:space:]][[:space:]]League[[:space:]]of[[:space:]]Legends_frames filter=lfs diff=lfs merge=lfs -text
-All[[:space:]]Annie[[:space:]]Skins[[:space:]]Spotlight[[:space:]]2021[[:space:]](League[[:space:]]of[[:space:]]Legends)_frames filter=lfs diff=lfs merge=lfs -text
-lol_map_video.mp4 filter=lfs diff=lfs merge=lfs -text
-*.webm filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
