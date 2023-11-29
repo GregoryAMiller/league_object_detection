@@ -1,0 +1,13 @@
+ALL AKSHAN SKINS  League of Legends_frames/
+All Annie Skins Spotlight 2021 (League of Legends)_frames/
+assets/
+images/
+labels/
+map_assets/
+test/
+train/
+val/
+*.webm
+*.mp4
+*.png
+*.jpg
